@@ -83,6 +83,6 @@ Console will look like this:
 
 ![OpenShift Web Console - overview of two apps](openshift-web-console-overview.png)
 
-And access the frontend service will render:
+And accessing the `frontend` service will render:
 
 ![Demo app screenshot](frontend-pulls-demo-screenshot.png)
